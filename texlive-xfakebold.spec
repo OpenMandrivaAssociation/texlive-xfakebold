@@ -1,6 +1,6 @@
 Name:		texlive-xfakebold
-Version:	55654
-Release:	2
+Version:	68929
+Release:	1
 Summary:	Fake a regular font for bold characters
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xfakebold
