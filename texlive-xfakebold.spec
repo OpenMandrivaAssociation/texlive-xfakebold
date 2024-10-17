@@ -3,7 +3,7 @@ Version:	68929
 Release:	1
 Summary:	Fake a regular font for bold characters
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xfakebold
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/xfakebold
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xfakebold.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xfakebold.doc.r%{version}.tar.xz
